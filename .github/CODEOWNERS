@@ -1,0 +1,6 @@
+# 書式: パス   所有者（@個人 または @組織/チーム）
+# 対象のファイルが変更された PR に、所有者が自動でレビュアーとして付きます。
+
+*                 @rojoudotcom
+/pets/            @rojoudotcom
+/.github/         @rojoudotcom
